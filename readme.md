@@ -19,22 +19,20 @@ Ce projet implémente un jeu de MasterMind en ligne à un joueur contre l’ordi
    git clone (https://github.com/kyllianlucas/MasterMind)
 
 2. Lancer en local :
-     ```bash
     j'ai reussi a le lancer depuis le localhost et depuis le port 12345
 
 
 3. Choix technique: 
-     ```bash
+
     Utilisation des sessions PHP pour gérer la persistance de la combinaison secrète et des tentatives du joueur.
     Structure de code orientée objet pour une meilleure maintenabilité.
     Utilisation de Bootstrap pour un rendu HTML/CSS propre et réactif.
 
 4. Temps Passé:
-     ```bash
-     environ 8h
+        environ 8h
 
-5. Difficultés rencontrées
-     ```bash
+5. Difficultés rencontrées:
+   
     Gestion des sessions pour persister les données entre les requêtes.
     Comparaison correcte des combinaisons pour calculer les pions blancs et rouges.
     Lancer le Mistermind sur le port demandé
