@@ -21,7 +21,7 @@ Ce projet implémente un jeu de MasterMind en ligne à un joueur contre l’ordi
 2. Lancer en local :
     j'ai reussi a le lancer depuis le localhost et depuis le port 12345
 
-
+## Problème rencontrer 
 3. Choix technique: 
 
     Utilisation des sessions PHP pour gérer la persistance de la combinaison secrète et des tentatives du joueur.
@@ -36,3 +36,6 @@ Ce projet implémente un jeu de MasterMind en ligne à un joueur contre l’ordi
     Gestion des sessions pour persister les données entre les requêtes.
     Comparaison correcte des combinaisons pour calculer les pions blancs et rouges.
     Lancer le Mistermind sur le port demandé
+
+6. Source 
+    j'ai été chercher du code sur youtube et j'ai regardé sur les forum et utilisé un peu ChatGPT pour comprendre le code que j'utilisais
