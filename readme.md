@@ -38,4 +38,4 @@ Ce projet implémente un jeu de MasterMind en ligne à un joueur contre l’ordi
     Lancer le Mistermind sur le port demandé
 
 6. Source 
-    j'ai été chercher du code sur youtube et j'ai regardé sur les forum et utilisé un peu ChatGPT pour comprendre le code que j'utilisais
+    j'ai été chercher du code sur youtube et j'ai regardé sur les forum et j'ai un peu utilisé ChatGPT pour comprendre le code que j'utilisais
