@@ -25,17 +25,16 @@ Ce projet implémente un jeu de MasterMind en ligne à un joueur contre l’ordi
 3. Choix technique: 
 
     Utilisation des sessions PHP pour gérer la persistance de la combinaison secrète et des tentatives du joueur.
-    Structure de code orientée objet pour une meilleure maintenabilité.
     Utilisation de Bootstrap pour un rendu HTML/CSS propre et réactif.
 
-4. Temps Passé:
+1. Temps Passé:
         environ 8h
 
-5. Difficultés rencontrées:
+2. Difficultés rencontrées:
    
     Gestion des sessions pour persister les données entre les requêtes.
     Comparaison correcte des combinaisons pour calculer les pions blancs et rouges.
     Lancer le Mistermind sur le port demandé
 
-6. Source 
+3. Source 
     j'ai été chercher du code sur youtube et j'ai regardé sur les forum et j'ai un peu utilisé ChatGPT pour comprendre le code que j'utilisais
